@@ -19,3 +19,4 @@ update Node Arrays and compareWeights for consistency.
 If a cycle occurs it will stop all process and print out 
 the negative cycle stays
    
+cat
