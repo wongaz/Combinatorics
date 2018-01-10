@@ -17,5 +17,5 @@ There is check if you want that will iterate over all the
 update Node Arrays and compareWeights for consistency.
 
 If a cycle occurs it will stop all process and print out 
-the negative cycle
+the negative cycle stays
    
