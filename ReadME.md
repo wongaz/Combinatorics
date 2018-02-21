@@ -1,5 +1,8 @@
 To Run the Program For 
 min arcs there 2 todos. 
+For graphs:
+http://www.diag.uniroma1.it/challenge9/download.shtml
+
 Just Change the file directory/location 
 of the .gr file. 
 
